@@ -10,7 +10,6 @@ munkres
 chumpy
 trimesh
 shyaml
-PyYAML==5.4.1
 numpy==1.21.5
 numpy-quaternion
 pygame
